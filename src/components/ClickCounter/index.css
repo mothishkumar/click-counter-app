@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.heading {
+  color: #2d3a35;
+  font-style: Roboto;
+  font-weight: bold;
+}
+.para {
+  color: #2d3a35;
+  font-style: Roboto;
+}
+.button1 {
+  background-color: #007bff;
+  color: white;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  color: #c20a72;
+}
